@@ -18,6 +18,6 @@ La clave secreta `JWT_SECRET` se almacena en el archivo `.env` y nunca se sube a
 
 ## Lo que no se almacena
 
-Contraseñas en texto plano
-Tokens activos
-Información sensible adicional del usuario
+- Contraseñas en texto plano
+- Tokens activos
+- Información sensible adicional del usuario
