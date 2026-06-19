@@ -1,0 +1,27 @@
+{
+	"info": {
+		"_postman_id": "d7df4134-976c-4a01-8519-4abd4029d031",
+		"name": "auth-api",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "44461859",
+		"_collection_link": "https://hectorwanderleypalenciapuentes.postman.co/workspace/Hector-Wanderley-Palencia-Puent~bfe4a7b4-5dad-411f-8f47-c379d2c01930/collection/44461859-d7df4134-976c-4a01-8519-4abd4029d031?action=share&source=collection_link&creator=44461859"
+	},
+	"item": [
+		{
+			"name": "Registro",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "iniciar sesion",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}

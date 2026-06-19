@@ -1,1 +1,12 @@
-[] 
+[
+  {
+    "id": 1781876826677,
+    "usuario": "hector",
+    "contrasena": "$2b$10$dn2f7TMjEud8IdslSHECgOv997bEve5zQ3wqch7Pw5lhXL.zxzDom"
+  },
+  {
+    "id": 1781878253125,
+    "usuario": "hector1",
+    "contrasena": "$2b$10$Xrwli4xb0QH//Vapzf6G8eEwCx0MVK31XOdgH2ovEI5puxZJi0YAS"
+  }
+]
